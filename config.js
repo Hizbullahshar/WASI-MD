@@ -5,15 +5,15 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['923278974102', 'ᴀʟᴀɴ ᴡᴀʟᴋᴇʀ', false],
   [''], 
   [''],
 ]
 
 //global.pairingNumber = "" //put your bot number here
-global.mods = ['923305673658'] 
-global.prems = ['923305673658', '923305673658', '923305673658']
-global.allowed = ['923305673658']
+global.mods = ['923278974102'] 
+global.prems = ['923278974102']
+global.allowed = ['923278974102']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -38,11 +38,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
-global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
-global.packname = '𝗪𝗔𝗦𝗜♥️' 
-global.author = '𝗧𝗘𝗖𝗛♥️' 
+global.princebot = 'ʜᴇꜱᴏʏᴀᴍ'
+global.packname = 'ᴍᴀᴅᴇ ʙʏ' 
+global.author = 'ᴀʟᴀɴ ᴡᴀʟᴋᴇʀ' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/IhDUWhpX6OWI5q0cMh7tEj'
+global.princegp = 'https://chat.whatsapp.com/KlSW8y9vDAh5ism0aN4i7a'
 global.menuvid = ''
 global.Princesc = '' 
 global.princeyt = 'https://youtube.com/@wasitech1'
